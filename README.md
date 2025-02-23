@@ -15,8 +15,9 @@ A simple Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 [Click here to play Tic Tac Toe!](https://maneeshakommagoni.github.io/Tic_Tac_Toe-Game/)  
 
 ## **🛠️ Tech Stack**  
-
+- **Coolors Color Palette Generator** – Used for selecting a visually appealing color scheme  
 - **HTML** – Structure of the game 
 - **CSS** – Styling and layout  
 - **JavaScript** – Game logic and interactivity  
+
 
